@@ -1,9 +1,10 @@
 # EP01 — ETL e Arquitetura Medalhão: Pokédex + Batalhas
 
 **Integrantes do grupo:**
-- ⚠️ *(preencher com o nome completo de TODOS os integrantes; quem não constar aqui não recebe nota)*
+   - Kauê Ibiapino
+   - Danilo Yamamoto
 
-**Declaração de uso de IA generativa:** ⚠️ *(preencher conforme exige a política de uso de ferramentas generativas de IA da disciplina; o código e a documentação deste repositório foram elaborados com auxílio de um assistente de IA e revisados pelo grupo)*
+**Declaração de uso de IA generativa:** o readme e as explicações do código foram feitos com o auxilio do claude
 
 ---
 
