@@ -1,0 +1,11 @@
+# cache local de bronze, reconstituível pela reexecução de extrair.py
+dados_brutos/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# variáveis de ambiente locais (URIs/senhas de banco)
+.env
